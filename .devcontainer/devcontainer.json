@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.245.0/containers/python-3
 {
-	"name": "Python 3",
+	"name": "Python3-Lesson1",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"context": "..",
